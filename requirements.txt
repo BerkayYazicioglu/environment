@@ -1,0 +1,10 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+numpy
+plotly==5.14.1
+noise
+dash
+pandas
+black
+dash_daq
+ordered_set
+scipy
